@@ -1,3 +1,3 @@
 # workshop
 
-test test
+files for the workshop 
